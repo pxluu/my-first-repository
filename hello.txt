@@ -3,3 +3,5 @@ git status 查看状态
 git log 查看版本历史记录
 git reflog 查看所有修改的版本记录
 git reset --hard 版本号前6位   （回退到某个特定的版本）
+git reset HEAD file 把暂存区的修改撤销掉（unstage），重新放回工作区
+git checkout -- file 丢弃工作区
