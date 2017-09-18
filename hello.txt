@@ -1,2 +1,4 @@
-hello world
-hlo
+git 笔记
+git status 查看状态
+git log 查看版本历史记录
+git reset --hard 版本号前6位   （回退到某个特定的版本）
